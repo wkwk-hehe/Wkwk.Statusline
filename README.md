@@ -12,7 +12,6 @@ Example with `lazy.nvim`:
 {
   "wkwk-hehe/Wkwk.Statusline",
   name = "Wkwk.Statusline",
-  dev = true,
   config = function()
     require("wkwk.statusline").setup()
   end,
